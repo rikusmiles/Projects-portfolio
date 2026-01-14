@@ -5,3 +5,4 @@ This section contains my technical work:
 - Lab-based projects
 - Coding projects
 - Simulations
+- Applied Projects
