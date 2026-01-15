@@ -1,4 +1,4 @@
-# My Bird Connect – Python-Based Reading & Knowledge Retention Tool
+# My Bird Connect – Python-Based Reading & Knowledge Retention App
 
 ## 📌 Project Overview
 My Bird Connect is a Python-based application designed to help readers retain and apply insights from books more effectively. The tool extracts highlighted text from PDF books, categorizes the content into meaningful zones, and presents the insights through an interactive graphical dashboard.
