@@ -5,7 +5,10 @@ My Bird Connect is a Python-based application designed to help readers retain an
 
 This project demonstrates practical use of Python for document processing, text categorization, and GUI-based visualization.
 
----
+## 📌 Project Demonstration
+
+Please watch the video demonstration of the complete application here:
+https://drive.google.com/file/d/1curmb6Q9FroZj6v3SPUL2_VYlzk67nlg/view?usp=sharing
 
 ## 🎯 Problem Statement
 Modern information consumption is at an all-time high, yet readers often struggle to retain or apply what they read. Highlights remain scattered across documents with no structured way to organize or revisit them meaningfully.
