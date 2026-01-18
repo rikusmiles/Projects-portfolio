@@ -2,6 +2,11 @@
 
 This section contains projects completed as part of a **Digital Marketing Externship**, emphasizing hands-on experience with real-world marketing initiatives and performance analysis.
 
+## Campaign Video Demonstration- Part of Campaign:
+
+Please view the video demonstration of one of our digital campaigns here: https://drive.google.com/file/d/16whc8UzcRuXA2DYWUKij1CJya8e-Hq4_/view?usp=sharing
+
+
 ## Scope of Work
 - Digital campaign planning and execution
 - Content strategy and optimization
