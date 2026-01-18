@@ -1,0 +1,125 @@
+Systems Engineering & Cybersecurity Foundations – Team Assignments
+
+
+📌 Project Overview
+
+This repository contains team-based systems engineering and cybersecurity coursework completed as part of graduate-level study. The work focuses on operational needs analysis, stakeholder analysis, system requirements, and system behavior modeling, applied to real-world problem domains.
+
+The projects demonstrate how complex systems are analyzed, structured, and validated using formal methods such as operational needs, functional decomposition, use-case sequence diagrams (UCSD), context diagrams, external system diagrams (ESD), and requirements specification 
+
+
+🧩 Project Themes
+
+The assignments span two major applied system domains:
+
+🚗 Smart Campus Parking System (Assignment 1)
+
+A conceptual system designed to minimize parking search time and travel distance on the Rutgers University–New Brunswick campus.
+
+Key focus areas:
+
+Operational needs definition
+
+Stakeholder identification and classification
+
+Voice of the Customer (VoC) interviews
+
+Privacy, security, and safety considerations
+
+Integration with campus systems, navigation, and payment platforms
+
+The system emphasizes real-time data, user preferences, fairness, privacy controls, and secure integrations 
+
+📱 Smartphone System Modeling & Requirements (Assignment 2)
+
+A detailed system-level analysis of a smartphone, modeled using formal systems engineering techniques.
+
+Key focus areas:
+
+Functional decomposition (Fn-1 to Fn-6)
+
+Authentication and access control
+
+Network services (cellular, GPS, Wi-Fi)
+
+Maintenance and hostile condition response
+
+System-level input and output requirements
+
+New use cases such as Emergency Services (SOS) and Take a Picture
+
+Artifacts include use-case sequence diagrams, context diagrams, IDEF0 models, and expanded requirements, showing how a secure system responds to both normal and hostile conditions 
+
+
+🎯 Learning Objectives
+
+Apply systems thinking to real-world problems
+
+Translate stakeholder needs into structured system requirements
+
+Model system behavior using industry-standard diagrams
+
+Understand security, privacy, availability, and reliability at the system level
+
+Bridge cybersecurity concepts with system design and operations
+
+🛠️ Methods & Techniques Used
+
+Operational Needs Analysis
+
+Stakeholder Mapping (Active vs Passive)
+
+Voice of the Customer (VoC) Interviews
+
+Functional Decomposition
+
+Use Case Sequence Diagrams (UCSD)
+
+Context Diagrams (CD)
+
+External Systems Diagrams (ESD)
+
+Formal “shall”-based requirements specification
+
+🛡️ Cybersecurity Relevance
+
+These projects directly support cybersecurity learning through:
+
+Authentication and authorization modeling
+
+Privilege separation (user vs provider vs admin)
+
+Privacy-aware system design
+
+Secure interaction with external systems
+
+Availability, resilience, and hostile condition response
+
+The work demonstrates how security must be embedded at the requirements and design stage, not added later.
+
+👥 Contribution Note
+
+These assignments were completed as team projects.
+They reflect collaborative analysis, structured documentation, and shared system modeling, with individual contributions made within each deliverable.
+
+✅ Key Takeaways
+
+Strong foundation in systems engineering for cybersecurity
+
+Experience translating abstract needs into concrete system behavior
+
+Practical exposure to secure system design principles
+
+Readiness for advanced work in SOC, systems security, and architecture
+
+👤 Author
+
+Anushka
+Graduate Student – Cybersecurity
+📍 Rutgers University
+💡 Interests: Cyber Defense, Secure Systems Design, Requirements Engineering, AI Ethics
+
+📚 Disclaimer
+
+All content in this repository is for academic and educational purposes only.
+No proprietary, confidential, or real operational data is included.
