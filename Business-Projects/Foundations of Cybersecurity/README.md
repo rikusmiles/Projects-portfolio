@@ -1,4 +1,5 @@
 🛡️ Foundations of Cybersecurity – Practical Coursework & Analysis
+
 📌 Course Overview
 
 This repository contains practical, hands-on coursework completed as part of the Foundations of Cybersecurity course during my Master’s in Cybersecurity program.
